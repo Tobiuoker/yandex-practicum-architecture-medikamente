@@ -1,1 +1,1 @@
-# yandex-practicum-architecture-medikamente
+# yandex-practicum-architecture-medikamente 
